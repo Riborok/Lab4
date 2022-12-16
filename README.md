@@ -1,7 +1,7 @@
 # Lab №4. 1D array
 ---
 ### Task:
-![The task](https://i.imgur.com/iXNJe6C.png)
+![The task](https://i.imgur.com/McjtGfe.png)
 
 #### Language: Delphi
 
@@ -13,9 +13,9 @@
 ---
 ### Algorithm scheme using the first variant: 
 
-![Algorithm scheme using the first variant Part1](https://i.imgur.com/TfkRMJR.png)
+![Algorithm scheme using the first variant Part1](https://i.imgur.com/fRA2a7u.png)
 
-![Algorithm scheme using the first variant Part2](https://i.imgur.com/IPued3Q.png)
+![Algorithm scheme using the first variant Part2](https://i.imgur.com/HClpIKC.png)
 
 ### Code using the first variant:
 ``` pascal
@@ -153,9 +153,9 @@ End.
 
 ### Algorithm scheme the second variant:
 
-![Algorithm scheme using the second variant Part1](https://i.imgur.com/VZwPZzN.png)
+![Algorithm scheme using the second variant Part1](https://i.imgur.com/NqEuklp.png)
 
-![Algorithm scheme using the second variant Part2](https://i.imgur.com/af1lVXg.png)
+![Algorithm scheme using the second variant Part2](https://i.imgur.com/x4jfzjB.png)
 
 ### Code using the second variant:
 ``` pascal
